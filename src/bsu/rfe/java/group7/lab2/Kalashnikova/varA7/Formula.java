@@ -91,7 +91,7 @@ public class Formula extends JFrame {
 
         button4.addActionListener(new ButtonEvent4());
         container.add(button4);
-        button4.setBackground(Color.GRAY);
+        button4.setBackground(Color.DARK_GRAY);
 
     }
 
