@@ -95,6 +95,7 @@ public class Formula extends JFrame {
 
     }
 
+
     // обрабатываем нажатие каждой кнопки
 
     class ButtonEvent1 implements ActionListener { // кнопка Вычислить
